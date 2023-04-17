@@ -18,3 +18,8 @@ body {
     margin-bottom: 10px;
   }
   
+  #searchInput {
+    width: 80%;
+    max-width: 300px;
+  }
+  
